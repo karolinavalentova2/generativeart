@@ -25,3 +25,9 @@
     width: 75px;
     transform-origin: bottom right;
 }
+
+#artwork7 {
+    position: relative;
+    top: 92px;
+    right: 134px;
+}
